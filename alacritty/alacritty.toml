@@ -1,0 +1,14 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin_mocha.toml"
+]
+
+[font]
+normal.family = "BlexMono Nerd Font Mono"
+bold.family = "BlexMono Nerd Font Mono"
+italic.family = "BlexMono Nerd Font Mono"
+bold_italic.family = "BlexMono Nerd Font Mono"
+size = 20.0
+
+[window]
+dimensions = { columns = 100, lines = 30 }
